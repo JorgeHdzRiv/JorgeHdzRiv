@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jorge Hernandez Rivera <img src="./src/wave.gif" width="30px" ></h1>
 
-<center><img align="center" src="./src/cat-work.gif"></center>
+<center><img align="center" src="./src/cat-work.gif" width='400px'></center>
 
 ---
 
