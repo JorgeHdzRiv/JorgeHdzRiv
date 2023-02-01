@@ -15,3 +15,7 @@
 ![Snake animation](https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JorgeHdzRiv&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
