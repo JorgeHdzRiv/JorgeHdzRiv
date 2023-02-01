@@ -12,10 +12,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeHdzRiv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+<br>
+
+<div>
+
 ![Snake animation](https://github.com/JorgeHdzRiv/jorgehdzriv/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+
+
+
+
 ---
+
+<div>
 
 ### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JorgeHdzRiv&no-frame=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
