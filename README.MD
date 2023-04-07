@@ -13,6 +13,7 @@
 - 👾 I like the videogames
 - 🗒  Currently I am very obsessed with learning Python, data science and data analysis.
 </details>
+
   <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -26,6 +27,16 @@
   <a href="https://www.linkedin.com/in/jorhdzriv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div><br>
+
+<div>
+<h3 align="left"><img src="./src/project2.gif" width="70px" height="25px">Latest Projects</h3>
+
+<!-- PROJECTS:START -->
+- [Indices de Mortalidad y Natalidad en Guanajuato | Analisis de Datos](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)
+- [Tutorial de Python con ejercicios| Python](https://github.com/JorgeHdzRiv/Python_Tutorial)
+<!-- PROJECTS:END -->
+
+<div>
 
 <div>
 <h3 align="left"><img src="./src/stat.gif" width="25px" height="25px"> GitHub Stats</h3>
