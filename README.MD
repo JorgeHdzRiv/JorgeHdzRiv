@@ -34,6 +34,7 @@
 <!-- PROJECTS:START -->
 - [Indices de Mortalidad y Natalidad en Guanajuato | Analisis de Datos](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)
 - [Tutorial de Python con ejercicios| Python](https://github.com/JorgeHdzRiv/Python_Tutorial)
+- [Encriptador de Texto(HTML5,CSS3,JS), ALURA LATAM](https://github.com/JorgeHdzRiv/EncriptadorTextos)
 <!-- PROJECTS:END -->
 
 <div>
