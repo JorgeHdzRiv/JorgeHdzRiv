@@ -32,9 +32,10 @@
 <h3 align="left"><img src="./src/project2.gif" width="70px" height="25px">Latest Projects</h3>
 
 <!-- PROJECTS:START -->
-- [Indices de Mortalidad y Natalidad en Guanajuato | Analisis de Datos](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)
 - [Tutorial de Python con ejercicios| Python](https://github.com/JorgeHdzRiv/Python_Tutorial)
-- [Encriptador de Texto(HTML5,CSS3,JS), ALURA LATAM](https://github.com/JorgeHdzRiv/EncriptadorTextos)
+- [Prediccion de la supervivencia del Titanic| Ciencia de Datos](https://github.com/JorgeHdzRiv/TitanicProjectCienciaDatos)
+- [Indices de Mortalidad y Natalidad en Guanajuato | Analisis de Datos](https://github.com/JorgeHdzRiv/Indices_mortalidad_natalidad_Guanajuato)
+
 <!-- PROJECTS:END -->
 
 <div>
